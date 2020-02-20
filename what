@@ -1,0 +1,53 @@
+[33mcommit 298b08ec6acd22fafeb9e2566fe7b178471410ad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 23fc416 249d3d9
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:46:15 2020 -0800
+
+    Merge branch 'danger'
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 23fc416068b503240b8c4ea298f433323551dac0[m
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:34:03 2020 -0800
+
+    box plots
+
+[33mcommit 249d3d9ae2b8b6ffcf814a940d9079406d693a5b[m[33m ([m[1;32mdanger[m[33m)[m
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:33:08 2020 -0800
+
+    kittens to puppies
+
+[33mcommit dc4ffd49780bd675da6fdff316ea196718b7d5b8[m
+Merge: a2ec914 459d1e8
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:24:51 2020 -0800
+
+    merge branch 'experiment'
+    :q!
+
+[33mcommit a2ec914dea33538fd3090c485ead7a56aa3f90b4[m
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:10:55 2020 -0800
+
+    roses
+
+[33mcommit b2cfa6b61392cb0dbbacb41c3a9f00ae37f487a7[m
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:08:47 2020 -0800
+
+    added daisies
+
+[33mcommit 459d1e83b1903de54b183a399b0f65ce3254c8e0[m[33m ([m[1;32mexperiment[m[33m)[m
+Author: Eric Fong <fong.eric18@gmail.com>
+Date:   Thu Feb 20 14:04:43 2020 -0800
+
+    added coffee and sleep
+
+[33mcommit 72b844a25dcf37992b616573ace6bc63004554ed[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joel Ross <joelross@uw.edu>
+Date:   Tue Feb 14 11:09:00 2017 -0800
+
+    Initial commit
